@@ -1,6 +1,8 @@
 ---
 name: qianjin-platform-analytics
 version: 1.0.0
+category: 数据分析
+platforms: [workbuddy, claude-code, cursor, windsurf, codex]
 description: 多平台自媒体赛道分析 - 针对抖音/快手/微信公众号/小红书/B站/视频号，采集行业数据、拆解对标账号、挖掘热点选题，输出赛道分析与运营建议，辅助后续选题与账号运营。
 author: ZOORO-NEW
 license: MIT
